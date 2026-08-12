@@ -13,10 +13,10 @@
 ---
 
 ### 💻 About Me
-* 🌱 I am currently pursuing my **B.Tech degree in Computer Science and Engineering (with a specialization in Computer Networking)** at **SRM Institute of Science and Technology, Kattankulathur**.
-* 🎨 My core strengths lie in **Frontend UI/UX** design and **Full-Stack Development**, crafting intuitive and responsive web applications.
-* 🚀 I am actively sharpening my problem-solving skills in **Data Structures and Algorithms (DSA)** using **C and C++**.
-* 🤝 Always open to collaborating on innovative web apps and technical projects.
+* I am currently pursuing my **B.Tech degree in Computer Science and Engineering (with a specialization in Computer Networking)** at **SRM Institute of Science and Technology, Kattankulathur**.
+*  My core strengths lie in **Frontend UI/UX** design and **Full-Stack Development**, crafting intuitive and responsive web applications.
+*  I am actively sharpening my problem-solving skills in **Data Structures and Algorithms (DSA)** using **C and C++**.
+*  Always open to collaborating on innovative web apps and technical projects.
 
 ---
 
