@@ -9,7 +9,7 @@
 <table>
   <tr>
     <p align="center">
-  <img src="./manas github pic.jpeg" width="400" />
+  <img src="./manas github2.jpeg" width="400" />
 </p>
   </tr>
 </table>
