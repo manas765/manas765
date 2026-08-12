@@ -9,7 +9,7 @@
 <table>
   <tr>
      WhatsApp Image 2026-08-12 at 4.00.10 PM.jpeg
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    WhatsApp Image 2026-08-12 at 4.00.31 PM.jpeg
   </tr>
 </table>
 
