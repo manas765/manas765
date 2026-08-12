@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./manas github pic.jpeg" width="220" style="border-radius: 50%;" />
+<img src="./manas github2.jpeg" width="220" style="border-radius: 50%;" />
 
 <h2 align="center">Hi there! I'm Manashvi Sharma 👋</h2>
 
