@@ -8,7 +8,9 @@
 <h3><code>manas@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src=".manas github pic.jpeg" width="370" /></td>
+    <p align="center">
+  <img src="./manas github pic.jpeg" width="400" />
+</p>
   </tr>
 </table>
 
