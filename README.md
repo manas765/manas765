@@ -8,7 +8,7 @@
 <h3><code>manas@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+     WhatsApp Image 2026-08-12 at 4.00.10 PM.jpeg
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>
